@@ -1,0 +1,14 @@
+table,td{
+    border: 10px solid gold;
+}
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    background-color: yellowgreen;
+}
+td{
+    width: 30px;
+    text-align: right;
+    background-color:yellow;
+    border-radius: 25px;
+}
